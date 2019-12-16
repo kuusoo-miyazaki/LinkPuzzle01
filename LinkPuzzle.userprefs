@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Link\Script\Reset.cs">
+    <Files>
+      <File FileName="Assets\_Link\Script\GemGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\ControllManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\GemParameter.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\LifeUi.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\TimeCount.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\ComboUi.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\StageButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\TotalManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\HomeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\TitleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\StartUi.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\SkillButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Link\Script\Reset.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
